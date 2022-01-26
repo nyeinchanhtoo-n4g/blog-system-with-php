@@ -68,13 +68,9 @@ if (empty($_SESSION['user_id']) && empty($_SESSION['logged_in'])) {
                 </table>
               </div>
             </div>
-            <!-- /.card -->
           </div>
         </div>
-        <!-- /.row -->
       </div>
-      <!-- /.container-fluid -->
     </div>
-    <!-- /.content -->
 
 <?php include('footer.html');?>
